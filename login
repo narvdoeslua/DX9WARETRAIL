@@ -8,7 +8,7 @@ local textbs = serv:Channel("Script")
 
 textbs:Textbox("Log-In", "Type here!", true, function(t)
     if t:match("^%w+$") then
-        if t == "VerifyBuyer111" then
+        if t == "DX9" then
             print("Correct password")
             NotificationLibrary:SendNotification("Success", "Correct Password", 1)
             wait(1)
