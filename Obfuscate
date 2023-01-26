@@ -1,0 +1,16 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/narvdoeslua/Tracer/main/Tracer"))()
+
+
+rconsoleprint('@@YELLOW@@')
+rconsoleprint([[
+                                      ____ _  ______ _       _____    ____  ______
+                                     / __ \ |/ / __ \ |     / /   |  / __ \/ ____/
+                                    / / / /   / /_/ / | /| / / /| | / /_/ / __/   
+                                   / /_/ /   |\__, /| |/ |/ / ___ |/ _, _/ /___   
+                                  /_____/_/|_/____/ |__/|__/_/  |_/_/ |_/_____/   
+                                                
+]])
+rconsoleprint('                                               DX9WARE Loaded                                                ')
+rconsoleprint('                                                          [Q] to lock on                                                ')
+rconsolename('DX9WARE FREE TRAIL')
+setclipboard('ophv#2997 runs ME and EVERYONE ELSE')  
