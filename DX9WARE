@@ -1,0 +1,29 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/narvdoeslua/DX9WARETRAIL/main/base"))()
+getgenv().AimlockKey = "q"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+rconsoleprint('@@YELLOW@@')
+rconsoleprint([[
+                                      ____ _  ______ _       _____    ____  ______
+                                     / __ \ |/ / __ \ |     / /   |  / __ \/ ____/
+                                    / / / /   / /_/ / | /| / / /| | / /_/ / __/   
+                                   / /_/ /   |\__, /| |/ |/ / ___ |/ _, _/ /___   
+                                  /_____/_/|_/____/ |__/|__/_/  |_/_/ |_/_____/   
+                                                
+]])
+rconsoleprint('                                               DX9WARE Loaded                                                ')
+rconsoleprint('                                                          [Q] to lock on                                                ')
+rconsolename('DX9WARE')
+setclipboard('ophv#2997 runs ME and EVERYONE ELSE')  
